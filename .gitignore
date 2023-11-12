@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ThreadBooster/.vs/ThreadBooster
+/ThreadBooster/ThreadBooster/x64/Debug
+/ThreadBooster/ThreadBooster/ThreadBooster.inf
+/ThreadBooster/ThreadBoosterClient/x64/Debug
+/ThreadBooster/x64/Debug
